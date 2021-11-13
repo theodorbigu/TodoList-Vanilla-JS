@@ -2,4 +2,4 @@
 
 ![Todo app](https://github.com/theodorbigu/TodoList-Vanilla-JS/blob/master/demo/demo.png?raw=true)
 <br/>
-# Live site : theo-todo-list-vanillajs.netlify.app
+# Live site : https://theo-todo-list-vanillajs.netlify.app/
